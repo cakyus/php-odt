@@ -1,0 +1,7 @@
+{
+	"name": "herch/php-odt",
+	"license": "PDDL-1.0",
+	"autoload": {
+		"files": ["phpodt.php"]
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"name": "herch/php-odt",
+	"description": "PHP-ODT helps you in creating odt files, using the OASIS Open Office Specification v1.1.",
+	"license": "PDDL-1.0",
+	"support": {
+		"source": "https://sourceforge.net/projects/php-odt/",
+		"docs": "http://php-odt.sourceforge.net/"
+	},
+	"autoload": {
+		"files": ["phpodt.php"]
+	}
+}
